@@ -1,10 +1,7 @@
-# 👋 Hi there, I'm Jorge Arteaga
+# 👋 Hi there, I'm Jorge Arteaga | Full Stack Developer
+Welcome to my github profile, I'm Jorge Arteaga, a Full-Stack Developer passionate about building beautiful and engaging web applications.
+**Let's connect and create something amazing together!**
 
-## Full-Stack Developer | Passionate about Creating Exceptional Web Experiences
-
-Welcome to my GitHub profile! I'm Jorge Luis Arteaga Aranibar, a full-stack developer with a flair for crafting beautiful and engaging web applications. I love turning design concepts into fully functional websites and applications that provide seamless user experiences.
-
----
 
 ### 🛠 Skills & Technologies
 
