@@ -6,43 +6,38 @@ Welcome to my GitHub profile! I'm Jorge Luis Arteaga Aranibar, a full-stack deve
 
 ---
 
-### 🌟 Skills
+### 🛠 Skills & Technologies
 
-- **Frontend:** React, Angular, CSS3, HTML, Next.js, React Native, Tailwind, Figma
-- **Backend:** Node.js, Express, FastAPI, Python, TypeScript, Apollo, GraphQL, Prisma, tRPC
-- **Databases:** PostgreSQL, MongoDB, Firebase
-- **Tools & Technologies:** Docker, Azure, Git, Socket.io, Playwright, PWA, Jest
+**Frontend:**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
----
+**Backend:**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Apollo](https://img.shields.io/badge/-Apollo-311C87?style=flat&logo=apollo-graphql&logoColor=white)
 
-### 🏢 Experience
+**Databases:**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 
-#### **Biwit AI | Full Stack Developer**
-_Aug 2023 – May 2024_
-- Migrated the project from Material UI to Tailwind, boosting performance and customer satisfaction.
-- Led the migration and restructuring of GraphQL services to tRPC.
-- Developed SEO strategies and SEO personalization features for AI assistants.
-- Integrated Google Analytics to analyze user behavior metrics.
-
-#### **Quasar BTL | Front-End Developer & UX/UI Designer**
-_Aug 2022 – Aug 2023_
-- Designed user-friendly interfaces based on business requirements and user feedback using Figma.
-- Implemented UI designs in React, ensuring consistency and responsiveness.
-- Promoted code reusability and maintainability with React’s component-based architecture.
-
-#### **Agrícola Oskar EIRL | Front-End Developer**
-_Jan 2022 – Aug 2022_
-- Optimized application performance and maintainability using best practices in frontend development.
-- Enhanced user experience with an engaging interface and user-friendly navigation.
-
----
-
-### 🎓 Education
-
-- **Frontend Masters | Frontend Development** (Jul 2021 – Dec 2021)
-- **Platzi | React Developer** (Jan 2021 – Jul 2021)
-- **Universidad Nacional del Santa | Business Office Automation** (Apr 2020 – Jun 2020)
-- **Universidad San Pedro | Industrial Engineering** (Jan 2015 – Dec 2019)
+**Tools & Technologies:**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2B2E3A?style=flat&logo=playwright&logoColor=white)
+![PWA](https://img.shields.io/badge/-PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 
 ---
 
