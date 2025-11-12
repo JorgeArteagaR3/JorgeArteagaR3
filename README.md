@@ -6,21 +6,6 @@ My passion is translating complex business concepts into highly functional, scal
 
 ---
 
-### 💡 My Engineering Philosophy in Practice
-
-I believe shipping features is only half the job. True success comes from building systems that are performant, scalable, and maintainable. Here’s how I put that philosophy into practice:
-
-* **From 0 to 1: Product Leadership**
-    As a Co-founder & Lead Engineer, I specialize in the entire product lifecycle. I led the end-to-end technical development of two AI-powered SaaS platforms (`cortosai.com` & `swagify.pro`), architecting the full-stack infrastructure and scalable backends to take them from initial concept to market launch.
-
-* **Performance is a Feature**
-    I'm obsessed with optimization. While leading a critical CMS migration from React 16 to Next.js 15, my focus on performance resulted in a **40% improvement in page load times** and a **50% smaller CSS bundle**.
-
-* **Scalability is in the Architecture**
-    I focus on modernizing API layers to handle growth. For an enterprise API serving clients like Starbucks and KFC, I engineered a solution that **reduced unnecessary API calls by 60%**. Separately, I led a migration from GraphQL to tRPC, achieving end-to-end type safety and **cutting API response times by 150ms**.
-
----
-
 ### 🛠 My Toolkit
 
 These are the technologies I use to bring ideas to life.
