@@ -6,29 +6,18 @@ My passion is translating complex business concepts into highly functional, scal
 
 ---
 
-### 💡 My Engineering Philosophy
+### 💡 My Engineering Philosophy in Practice
 
-I believe shipping features is only half the job. True success comes from building systems that are performant, scalable, and maintainable.
+I believe shipping features is only half the job. True success comes from building systems that are performant, scalable, and maintainable. Here’s how I put that philosophy into practice:
 
-* **Performance is a Feature:** I'm obsessed with optimization. In my recent roles, I've led migrations that resulted in a **40% improvement in page load times**, a **50% smaller CSS bundle**, and a **+20 point Lighthouse score increase**.
+* **From 0 to 1: Product Leadership**
+    As a Co-founder & Lead Engineer, I specialize in the entire product lifecycle. I led the end-to-end technical development of two AI-powered SaaS platforms (`cortosai.com` & `swagify.pro`), architecting the full-stack infrastructure and scalable backends to take them from initial concept to market launch.
 
-* **Scalability is in the Architecture:** I focus on modernizing API layers to handle growth and ensure data integrity. I've engineered solutions that **reduced unnecessary API calls by 60%** and led migrations from GraphQL to tRPC to achieve end-to-end type safety and **cut API response times by 150ms**.
+* **Performance is a Feature**
+    I'm obsessed with optimization. While leading a critical CMS migration from React 16 to Next.js 15, my focus on performance resulted in a **40% improvement in page load times** and a **50% smaller CSS bundle**.
 
-* **From 0 to 1:** As a co-founder, I specialize in the entire product lifecycle. I can take a high-level business concept, architect the technical roadmap, and build the shippable, AI-powered MVP from the ground up.
-
----
-
-### 🚀 Featured Work
-
-Here are a few things I'm proud of. I recommend **pinning** these to your profile.
-
-#### 1. cortosai.com & swagify.pro (AI SaaS Platforms)
-As Co-founder & Lead Engineer, I led the end-to-end technical development of two AI-powered SaaS applications. I architected the full-stack infrastructure, designed scalable backend services for complex, asynchronous media processing, and integrated the AI models to bring these products from concept to launch.
-* **Tech:** Next.js, Node.js, tRPC, Tailwind CSS, AWS, Firebase, AI Model APIs
-
-#### 2. Enterprise CMS & API Optimization (Case Study)
-Led a critical migration for a legacy CMS from React 16 to a modern Next.js 15 architecture. My solution for optimizing data workflows (serving clients like **Starbucks, KFC, and Pizza Hut**) **reduced redundant API calls by 60%**, saving significant infrastructure costs.
-* **Key Outcomes:** 40% faster page loads, 60% fewer API calls.
+* **Scalability is in the Architecture**
+    I focus on modernizing API layers to handle growth. For an enterprise API serving clients like Starbucks and KFC, I engineered a solution that **reduced unnecessary API calls by 60%**. Separately, I led a migration from GraphQL to tRPC, achieving end-to-end type safety and **cutting API response times by 150ms**.
 
 ---
 
@@ -61,13 +50,14 @@ These are the technologies I use to bring ideas to life.
 #### Tools, DevOps & Testing
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+Nothing to display.
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Cypress](https.img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Cypress](httpshttps.img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=flat&logo=zod&logoColor=white)
 
 ---
@@ -80,7 +70,7 @@ I'm always open to discussing new projects, sharing ideas, or exploring collabor
   <a href="https://github-readme-stats.vercel.app/api?username=JorgeArteagaR3&show_icons=true&theme=radical&rank_icon=github&count_private=true">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeArteagaR3&show_icons=true&theme=radical&rank_icon=github&count_private=true" />
   </a>
-  <a href="https://github.com/JorgeArteagaR3/github-readme-stats">
+  <a href="httpsm://github.com/JorgeArteagaR3/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeArteagaR3&layout=compact&langs_count=8&theme=radical" />
   </a>
 </p>
