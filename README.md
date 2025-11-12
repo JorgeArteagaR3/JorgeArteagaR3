@@ -1,46 +1,46 @@
 # Jorge Arteaga | Software Engineering Professional
-[cite_start][jorge.aranibar26@gmail.com](mailto:jorge.aranibar26@gmail.com) [cite: 4] [cite_start]· [LinkedIn Profile](https://www.linkedin.com/in/your-profile-url) Versatile Software Engineer with proven success conceptualizing, developing, and optimizing end-to-end web applications across demanding, high-performance environments[cite: 6].
+[jorge.aranibar26@gmail.com](mailto:jorge.aranibar26@gmail.com) · [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-username) Versatile Software Engineer with proven success conceptualizing, developing, and optimizing end-to-end web applications across demanding, high-performance environments.
 
-[cite_start]Skilled in executing complex system migrations and architectural enhancements to drive scalability and elevate the user experience[cite: 7]. [cite_start]Adept at translating intricate business requirements into highly functional, user-centric applications, with a keen focus on modernizing API layers to boost performance and ensure data integrity[cite: 8].
+Skilled in executing complex system migrations and architectural enhancements to drive scalability and elevate the user experience. Adept at translating intricate business requirements into highly functional, user-centric applications, with a keen focus on modernizing API layers to boost performance and ensure data integrity.
 
 ---
 
 ### 🚀 Core Competencies
 
-* [cite_start]**Full-Stack Architecture:** Architecting end-to-end solutions, from scalable backend services (Node.js, Express, tRPC) to modern, responsive UIs (React, Next.js, Tailwind CSS)[cite: 7, 14, 16, 30, 34, 35].
-* [cite_start]**System Optimization & Migration:** Leading complex migrations (React 16 to Next.js 15, GraphQL to tRPC, Material UI to Tailwind) to dramatically improve performance, reduce costs, and enhance type safety[cite: 30, 31, 34, 35].
-* [cite_start]**AI & Product Leadership:** Co-founding and leading the end-to-end technical development of AI-powered SaaS applications (like `cortosai.com` & `swagify.pro`), taking them from initial concept to successful market launch.
-* [cite_start]**API & Data Integrity:** Engineering and modernizing API layers to optimize data workflows (reducing unnecessary calls by 60%) and ensure data integrity with tools like Zod[cite: 8, 18, 29, 31].
+* **Full-Stack Architecture:** Architecting end-to-end solutions, from scalable backend services (Node.js, Express, tRPC) to modern, responsive UIs (React, Next.js, Tailwind CSS).
+* **System Optimization & Migration:** Leading complex migrations (React 16 to Next.js 15, GraphQL to tRPC, Material UI to Tailwind) to deliver measurable business impact:
+    * **40% improvement** in page load times.
+    * **60% reduction** in unnecessary API calls, saving infrastructure costs.
+    * **50% decrease** in CSS bundle size & **+20 point** Lighthouse score increase.
+    * **150ms reduction** in average API response times.
+* **AI & Product Leadership:** Co-founding and leading the end-to-end technical development of AI-powered SaaS applications (like `cortosai.com` & `swagify.pro`), taking them from initial concept to successful market launch.
+* **API & Data Integrity:** Engineering and modernizing API layers to optimize data workflows and ensure end-to-end type safety with tools like tRPC and Zod.
 
 ---
 
 ### 🌟 Featured Projects
 
-> **Mentor Note:** You should **pin** these repositories to your GitHub profile. They are your strongest assets.
+> **Note:** I strongly recommend pinning these repositories to your GitHub profile.
 
 #### 1. cortosai.com (AI Video Content Generator)
-* [cite_start]**Role:** Co-founder & Lead Engineer[cite: 22].
-* [cite_start]**Description:** Led the complete end-to-end product development of an AI-powered SaaS application[cite: 24]. [cite_start]I architected the core full-stack infrastructure, implementing scalable backend services to manage complex, asynchronous media processing and AI model integrations[cite: 24].
-* **Tech:** *(List key technologies used, e.g., Next.js, Node.js, AWS, AI APIs)*
-* **[Live Site] · [GitHub Repo]**
-
-#### 2. swagify.pro (AI Image Generator)
-* [cite_start]**Role:** Co-founder & Lead Engineer[cite: 22].
-* [cite_start]**Description:** Acted as the lead technical partner, translating a high-level business concept into a detailed product specification, technical roadmap, and a shippable MVP[cite: 23, 24].
-* **Tech:** *(List key technologies used, e.g., React, Firebase, AI APIs)*
-* **[Live Site] · [GitHub Repo]**
-
-#### 3. API Delosi Optimization (CMS Migration)
-* [cite_start]**Role:** Core Developer[cite: 29].
-* [cite_start]**Description:** Led the migration of a legacy CMS from React 16 to a modern Next.js 15 architecture, resulting in a **40% improvement in page load times**[cite: 30]. [cite_start]Also engineered a request management solution that **reduced unnecessary calls by 60%**, leading to significant infrastructure cost savings.
-* [cite_start]**Tech:** Next.js, React, Typescript, Zod [cite: 14, 15, 18, 30]
+* **Role:** Co-founder & Lead Engineer.
+* **Description:** Led the complete end-to-end product development of an AI-powered SaaS application. I architected the core full-stack infrastructure, implementing scalable backend services to manage complex, asynchronous media processing and AI model integrations.
+* **Tech:** *(List key technologies, e.g., Next.js, Node.js, AWS, AI APIs)*
+* **[Live Site] · [GitHub Repo]** #### 2. swagify.pro (AI Image Generator)
+* **Role:** Co-founder & Lead Engineer.
+* **Description:** Acted as the lead technical partner, translating a high-level business concept into a detailed product specification, technical roadmap, and a shippable MVP.
+* **Tech:** *(List key technologies, e.g., React, Firebase, AI APIs)*
+* **[Live Site] · [GitHub Repo]** #### 3. API Delosi Optimization (Enterprise Case Study)
+* **Role:** Core Developer.
+* **Description:** Led the migration of a legacy CMS from React 16 to a modern Next.js 15 architecture, resulting in a **40% improvement in page load times**. Also engineered a request management solution that **reduced unnecessary calls by 60%**, leading to significant infrastructure cost savings.
+* **Tech:** Next.js, React, Typescript, Zod
 * **[GitHub Repo]** ---
 
 ### 🛠 Technical Proficiencies
 
-> [cite_start]This stack is based on my hands-on professional experience[cite: 10].
+> This stack is based on my hands-on professional experience.
 
-#### [cite_start]Front-End [cite: 11]
+#### Front-End
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -55,7 +55,7 @@
 ![PWA](https://img.shields.io/badge/-PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
 
-#### [cite_start]Back-End [cite: 12]
+#### Back-End
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -64,7 +64,7 @@
 ![Apollo](https://img.shields.io/badge/-Apollo-311C87?style=flat&logo=apollo-graphql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-#### [cite_start]Tools & DevOps [cite: 13, 17, 18]
+#### Tools & DevOps
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
