@@ -1,6 +1,6 @@
 # Hi there, I'm Jorge Arteaga 👋
 
-[Email](mailto:jorge.aranibar26@gmail.com) · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME) I'm a Software Engineer and Co-founder based in Helsinki, Finland.
+[Email](mailto:jorge.aranibar26@gmail.com) · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME) I'm a Software Engineer
 
 My passion is translating complex business concepts into highly functional, scalable, and user-centric web applications. I thrive on architecting end-to-end solutions and have a proven track record of leading products from the initial "what if" all the way to a successful market launch.
 
